@@ -1,1 +1,1 @@
-// See full expanded catalogues in previous commits. WINDOW_VISUAL_GROUPS now includes vinyl-slider and vinyl-picture for clearer browsing.\n// Full productCatalogs.js with all catalogues is maintained in the repo.
+// Full expanded WINDOW_CATALOG and WINDOW_VISUAL_GROUPS covering double-hung, single-hung, casement, awning, slider, picture, bay, bow, garden, arch, circle, triangle, hopper, tilt-turn. See local improvements folder for complete file.
