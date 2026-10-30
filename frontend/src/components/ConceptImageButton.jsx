@@ -1,0 +1,1 @@
+// ConceptImageButton \u2014 one-click concept rendering from current design.\n// Wire to your existing AI image endpoint.

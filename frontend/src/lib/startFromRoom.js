@@ -1,0 +1,1 @@
+// StartFromRoom \u2014 drops user into a usable plan immediately.\n// createStarterRoom('kitchen' | 'bath' | 'living') returns a minimal plan object.
